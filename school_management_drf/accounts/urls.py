@@ -5,7 +5,7 @@ from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
 
 # Criando o roteador para o ModelViewSet do CustomUser
 router = DefaultRouter()
-router.register(r'users', CustomUserViewSet)
+router.register('users', CustomUserViewSet)
 
 urlpatterns = [
     # Definindo a URL do login (obter tokens)
