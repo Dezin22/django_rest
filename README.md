@@ -298,4 +298,4 @@ O TestDriven.io oferece diversos tutoriais práticos focados em testes e desenvo
 Dev.to - Django REST Framework Tutorials
 
 https://dev.to/t/django
-A plataforma Dev.to tem uma comunidade ativa de desenvolvedores. Você pode encontrar vários tutoriais de DRF compartilhados por outros desenvolvedores, que vão desde conceitos básicos até tópicos mais avançados.
+A plataforma Dev.to tem uma comunidade ativa de desenvolvedores. Você pode encontrar vários tutoriais de DRF compartilhados por outros desenvolvedores, que vão desde conceitos básicos até tópicos mais avançados.# django_rest
